@@ -14,9 +14,9 @@ int main() {
     bool ne_good = false;
 
     if (dteu == 17)
-        cout << good,"DTEU is GOD of Learning";
+        cout << good, "You are Fck good";
     else {
-        cout << ne_good, "Try again";
+        cout << ne_good, "Try some new answer";
     }
 
 
